@@ -1,0 +1,9 @@
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A2-CS\HW7-9A2-CS\bin\Debug\Rademacher-Normal.exe.config
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A2-CS\HW7-9A2-CS\bin\Debug\Rademacher-Normal.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A2-CS\HW7-9A2-CS\bin\Debug\Rademacher-Normal.pdb
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A2-CS\HW7-9A2-CS\obj\Debug\MyHomework.Form1.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A2-CS\HW7-9A2-CS\obj\Debug\MyHomework.Properties.Resources.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A2-CS\HW7-9A2-CS\obj\Debug\HW7-9A2-CS.csproj.GenerateResource.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A2-CS\HW7-9A2-CS\obj\Debug\HW7-9A2-CS.csproj.CoreCompileInputs.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A2-CS\HW7-9A2-CS\obj\Debug\Rademacher-Normal.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A2-CS\HW7-9A2-CS\obj\Debug\Rademacher-Normal.pdb
